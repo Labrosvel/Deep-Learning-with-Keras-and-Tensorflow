@@ -11,7 +11,7 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 
 ## Advanced CNNs in Keras
 - Advanced CNNs in Keras (VGG-like and ResNet-like architectures)
-- Data Augmentation Techniques
+- Data Augmentation Techniques (Basic: Rotation, width shift, height shift, horizontal flip, Advanced: Feature-wize normalization, sample-wise normalization, custom augmentation functions) 
 - Lab2a: Advanced Data Augmentation with Keras
 - Transfer Learning in Keras
 - Using Pre-trained Models
