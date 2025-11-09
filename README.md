@@ -10,7 +10,7 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - Lab2a: Creating Custom Layers and Models
 
 ## Advanced CNNs in Keras
-- Advanced CNNs in Keras
+- Advanced CNNs in Keras (VGG-like and ResNet-like architectures)
 - Data Augmentation Techniques
 - Lab2a: Advanced Data Augmentation with Keras
 - Transfer Learning in Keras
