@@ -30,7 +30,15 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - TensorFlow for Sequential Data
 - Lab3b: Implementing Transformers for Text Generation
 
-
+## Unsupervised Learning and Generative Models in Keras
+ - Introduction to Unsupervised Learning in Keras
+ - Building Autoencoders in Keras
+ - Lab4a: Building Autoencoders
+ - Diffusion Models
+ - Lab4b: Implementing Diffusion Models
+ - Generative Adversarial Networks (GANs)
+ - TensorFlow for Unsupervised Learning
+ - Lab4c: Develop GANs using Keras
 
 
 
