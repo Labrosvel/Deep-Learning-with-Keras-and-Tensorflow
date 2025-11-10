@@ -20,3 +20,17 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - Tips for Transfer Learning Implementation (Reading 2a)
 - Introducting Transpose Convolution
 - Lab2c: Practical Application of Transpose Convolution
+
+## Transformers in Keras
+- Introduction to Transformers in Keras
+- Building Transformers for Sequential Data
+- Lab3a: Building Advanced Transformers
+- Advanced Transformers Applications
+- Transformers for Time Series Prediction
+- TensorFlow for Sequential Data
+- Lab3b: Implementing Transformers for Text Generation
+
+
+
+
+
