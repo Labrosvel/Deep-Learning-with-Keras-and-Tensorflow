@@ -40,5 +40,13 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
  - TensorFlow for Unsupervised Learning
  - Lab4c: Develop GANs using Keras
 
+## Advanced Keras Techniques
+- Advanced Keras Techniques
+- Custom Training Loops in Keras
+- Hyperparameter Tuning with Keras Tuner
+- Lab5a: Hyperparameter Tuning with Keras Tuner
+- Model Optimization
+
+
 
 
