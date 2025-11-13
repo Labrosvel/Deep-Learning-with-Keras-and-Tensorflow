@@ -43,8 +43,9 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 ## Advanced Keras Techniques
 - Advanced Keras Techniques
 - Custom Training Loops in Keras
+- Lab5a: Custom Training Loops in Keras
 - Hyperparameter Tuning with Keras Tuner
-- Lab5a: Hyperparameter Tuning with Keras Tuner
+- Lab5b: Hyperparameter Tuning with Keras Tuner
 - Model Optimization
 
 
