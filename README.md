@@ -1,7 +1,7 @@
 https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?specialization=ai-engineer#modules
 # Deep-Learning-with-Keras-and-Tensorflow
 
-## Advanced Keras Functionalities
+## Module1: Advanced Keras Functionalities
 - Introduction to Advanced Keras
 - Keras Functional API and Subclassing API
 - Lab1a: Implementing the Functional API in Keras
@@ -9,7 +9,7 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - Overview of TensorFlow 2.x
 - Lab2a: Creating Custom Layers and Models
 
-## Advanced CNNs in Keras
+## Module2: Advanced CNNs in Keras
 - Advanced CNNs in Keras (VGG-like and ResNet-like architectures)
 - Data Augmentation Techniques (Basic: Rotation, width shift, height shift, horizontal flip, Advanced: Feature-wize normalization, sample-wise normalization, custom augmentation functions) 
 - Lab2a: Advanced Data Augmentation with Keras
@@ -21,7 +21,7 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - Introducting Transpose Convolution
 - Lab2c: Practical Application of Transpose Convolution
 
-## Transformers in Keras
+## Module3: Transformers in Keras
 - Introduction to Transformers in Keras
 - Building Transformers for Sequential Data
 - Lab3a: Building Advanced Transformers
@@ -30,7 +30,7 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - TensorFlow for Sequential Data
 - Lab3b: Implementing Transformers for Text Generation
 
-## Unsupervised Learning and Generative Models in Keras
+## Module4: Unsupervised Learning and Generative Models in Keras
  - Introduction to Unsupervised Learning in Keras
  - Building Autoencoders in Keras
  - Lab4a: Building Autoencoders
@@ -40,13 +40,28 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
  - TensorFlow for Unsupervised Learning
  - Lab4c: Develop GANs using Keras
 
-## Advanced Keras Techniques
+## Module5: Advanced Keras Techniques
 - Advanced Keras Techniques
 - Custom Training Loops in Keras
 - Lab5a: Custom Training Loops in Keras
 - Hyperparameter Tuning with Keras Tuner
 - Lab5b: Hyperparameter Tuning with Keras Tuner
 - Model Optimization
+
+## Module6: Introduction to Reinforcement Learning in Keras
+- Reinforcement Learning (RL)
+- Q-Learning with Keras
+- Lab6a: Implementing Q-Learning in Keras
+- Deep Q-Networks (DQNs) with Keras
+- Lab6b: Building a Deep Q-Network with Keras
+
+
+
+
+
+
+
+
 
 
 
