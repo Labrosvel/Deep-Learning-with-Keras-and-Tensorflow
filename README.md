@@ -48,13 +48,14 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - Lab5b: Hyperparameter Tuning with Keras Tuner
 - Model Optimization
 
-## Module 6: Introduction to Reinforcement Learning in Keras
+## (not completed) Module 6: Introduction to Reinforcement Learning in Keras
 - Reinforcement Learning (RL)
 - Q-Learning with Keras
 - Lab6a: Implementing Q-Learning in Keras
 - Deep Q-Networks (DQNs) with Keras
 - Lab6b: Building a Deep Q-Network with Keras
 
+## Practice Project: Fruit Classification Using Transfer Learning
 
 
 
