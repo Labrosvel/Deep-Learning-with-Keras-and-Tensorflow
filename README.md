@@ -55,7 +55,9 @@ https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?spe
 - Deep Q-Networks (DQNs) with Keras
 - Lab6b: Building a Deep Q-Network with Keras
 
-## Practice Project: Fruit Classification Using Transfer Learning
+## Module 7: Final Project and Assignement
+- Practice Project: Fruit Classification Using Transfer Learning
+- Final Project: Classify Waste Products Using Transfer Learning
 
 
 
